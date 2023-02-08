@@ -1,5 +1,5 @@
 {
-  "name": "module-node",
+  "name": "br-encrypt",
   "version": "1.0.0",
   "description": "Module permettant d'encrypter un mot de passe",
   "author": "Benjamin Rodrigues",
